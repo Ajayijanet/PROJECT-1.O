@@ -32,7 +32,8 @@ To analze sales performance of the retail stores from different region to explor
     After analyzing the data,it was observed that shoes has the highest sum of total sales, and the region with the highest sum of total sales is the South
   
     
-
-
-
-
+![Screenshot (26)](https://github.com/user-attachments/assets/4bd59502-bbfa-4d95-a861-9f573ba9cdf4)
+![Screenshot (27)](https://github.com/user-attachments/assets/24717236-3cd5-4629-9264-02a5855d85af)
+![Screenshot (28)](https://github.com/user-attachments/assets/296266c6-fb46-41b4-98d7-e97055ede398)
+![Screenshot (30)](https://github.com/user-attachments/assets/65ee0e01-9534-4d28-84de-17becf7b9b25)
+![Screenshot (29)](https://github.com/user-attachments/assets/fa01c4b9-db93-4e86-9a6e-5e7ed8a4a6dd)
